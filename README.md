@@ -61,7 +61,7 @@ We will start by running the main.py by clicking run and We will start the Threa
 
 
 
-Next we will do Resource Development in the Mitre Att&ck and we found something again 
+Next we will hunt for Resource Development in the Mitre Att&ck and we found something again 
 
 
 
@@ -72,7 +72,43 @@ Next we will hunt for Initial Access in the Mitre Att&ck and we found something 
 
 
 
+Next we will hunt for Execution in the Mitre Att&ck and we found something again hehe 
 
 
+
+Next we will hunt for Persistence in the Mitre Att&ck and we found something again hehe 
+
+
+
+Next we will hunt for Privilege Escalation in the Mitre Att&ck and we found something again hehe 
+
+
+
+Next we will hunt for Defense Evasion in the Mitre Att&ck and we found something again hehe 
+
+
+
+Next we will hunt for Credential Access in the Mitre Att&ck and we found something again hehe 
+
+
+
+Next we will hunt for Discovery in the Mitre Att&ck and we found something again hehe 
+
+
+
+Next we will hunt for Lateral Movement in the Mitre Att&ck and we found something again hehe 
+
+
+
+Next we will hunt for Collection in the Mitre Att&ck and we found something again hehe 
+
+
+Next we will hunt for Command and Control in the Mitre Att&ck and we found something again hehe 
+
+
+Next we will hunt for Exfiltration in the Mitre Att&ck and we found something again hehe 
+
+
+Next we will hunt for Impact in the Mitre Att&ck and we found something again hehe 
 
 
