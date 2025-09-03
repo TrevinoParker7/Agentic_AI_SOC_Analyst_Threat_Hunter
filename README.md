@@ -75,6 +75,12 @@ Next we will hunt for Resource Development in the Mitre Att&ck and we found some
 
 
 Next we will hunt for Initial Access in the Mitre Att&ck and we found something again hehe 
+<img width="3576" height="2275" alt="Screenshot 2025-09-03 123213" src="https://github.com/user-attachments/assets/33502214-0d2d-4082-8ab9-2ce5975194ca" />
+
+
+<img width="3596" height="2233" alt="Screenshot 2025-09-03 123437" src="https://github.com/user-attachments/assets/15606200-f3c2-4acc-9000-ef847a798597" />
+
+<img width="2862" height="435" alt="Screenshot 2025-09-03 123805" src="https://github.com/user-attachments/assets/48829351-0e08-42cc-be16-3ac9213e01db" />
 
 
 
