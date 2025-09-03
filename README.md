@@ -136,12 +136,28 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 > **What it is:** Methods to avoid detection (disabling security tools, obfuscating code, deleting logs).
 > **Why it matters:** If attackers can hide, they can operate longer and cause more damage.
 
+<img width="3089" height="1033" alt="Screenshot 2025-09-03 165537" src="https://github.com/user-attachments/assets/666b0485-eb67-4925-b4d0-917b8cfac77c" />
+
+<img width="3101" height="1531" alt="Screenshot 2025-09-03 165602" src="https://github.com/user-attachments/assets/d2396fd3-69e2-4a05-9fc8-9d6235e794e2" />
+
+<img width="3113" height="1655" alt="Screenshot 2025-09-03 165618" src="https://github.com/user-attachments/assets/50a46908-976d-4a8b-ba18-5e798320ba59" />
+
+<img width="3064" height="1431" alt="Screenshot 2025-09-03 165633" src="https://github.com/user-attachments/assets/b7b6c3a3-a789-4a3f-bab9-66dd25679830" />
+
+
 ---
 
 ## 🔑 Credential Access
 
 > **What it is:** Stealing usernames, passwords, tokens, or hashes.
 > **Why it matters:** With valid creds, attackers look like normal users — making detection harder.
+
+<img width="2372" height="1069" alt="Screenshot 2025-09-03 170709" src="https://github.com/user-attachments/assets/b176638f-6437-43df-beba-1930f6d955b4" />
+
+
+
+<img width="3094" height="1820" alt="Screenshot 2025-09-03 170727" src="https://github.com/user-attachments/assets/d23e5b73-e862-4511-8a0d-9fe88c10ddeb" />
+
 
 ---
 
