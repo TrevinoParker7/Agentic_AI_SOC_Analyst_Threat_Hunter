@@ -1,7 +1,3 @@
-Perfect 🔥 — I’ll expand your walkthrough so that **each MITRE ATT\&CK tactic** has a short, clear explanation of *what it is* and *why attackers use it*. I’ll keep **all your picture links intact** and just enrich the write-up. Here’s the updated flow:
-
----
-
 # 🔥(POC) Demo of An Unpopular Opinion: AI + SOC Analysts
 
 > **AI will replace bad SOC Analysts, not good ones.**
