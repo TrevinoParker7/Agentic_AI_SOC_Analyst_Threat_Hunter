@@ -59,11 +59,18 @@ We will start by running the main.py by clicking run and We will start the Threa
 
 
 
+<img width="3837" height="2189" alt="Screenshot 2025-08-30 210508" src="https://github.com/user-attachments/assets/ffa6597e-8b21-4832-a346-c2121f0b9a8f" />
+
+<img width="3839" height="2210" alt="Screenshot 2025-08-30 210550" src="https://github.com/user-attachments/assets/2806766a-9496-477d-a024-70818b52afa7" />
 
 
 Next we will hunt for Resource Development in the Mitre Att&ck and we found something again 
 
+<img width="3778" height="2203" alt="Screenshot 2025-08-30 213339" src="https://github.com/user-attachments/assets/326571d3-7622-41a0-a9a8-180302d3dbe9" />
 
+<img width="3819" height="2232" alt="Screenshot 2025-08-30 213719" src="https://github.com/user-attachments/assets/8a9518c8-efbb-42fb-96fd-9e441b16c6b6" />
+
+<img width="3835" height="2196" alt="Screenshot 2025-08-30 213831" src="https://github.com/user-attachments/assets/c472c931-7b65-495c-9baa-f749f4b3989f" />
 
 
 
