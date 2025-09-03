@@ -87,9 +87,35 @@ Next we will hunt for Initial Access in the Mitre Att&ck and we found something 
 
 Next we will hunt for Execution in the Mitre Att&ck and we found something again hehe 
 
+<img width="3085" height="1048" alt="Screenshot 2025-09-03 153724" src="https://github.com/user-attachments/assets/0aaa8e7d-f9c5-4adf-abc9-00beac8d11e3" />
+
+<img width="3073" height="1416" alt="Screenshot 2025-09-03 153748" src="https://github.com/user-attachments/assets/b3364318-06cf-4b27-99c0-ce59c77683e6" />
+
+
+<img width="3107" height="1746" alt="Screenshot 2025-09-03 153806" src="https://github.com/user-attachments/assets/866ae12c-d14f-45b6-8910-ef06fc06c190" />
+
+
+
+
 
 
 Next we will hunt for Persistence in the Mitre Att&ck and we found something again hehe 
+
+<img width="2284" height="1020" alt="Screenshot 2025-09-03 154625" src="https://github.com/user-attachments/assets/566768b7-d269-40a4-89c4-99ef6e5d18dd" />
+
+<img width="3082" height="1350" alt="Screenshot 2025-09-03 154708" src="https://github.com/user-attachments/assets/6cb43d4a-5f30-4336-a804-2dfc9b90ff98" />
+
+
+
+
+<img width="2453" height="1281" alt="Screenshot 2025-09-03 154728" src="https://github.com/user-attachments/assets/b2185e56-9463-4dd6-81ee-e19602958f33" />
+
+
+
+<img width="3153" height="1347" alt="Screenshot 2025-09-03 154745" src="https://github.com/user-attachments/assets/8d0e9afa-44cb-44fa-bc19-e0e08247a96a" />
+
+
+<img width="3127" height="1312" alt="Screenshot 2025-09-03 154800" src="https://github.com/user-attachments/assets/7b5cede2-178d-4ce8-a124-ce16a7f3db14" />
 
 
 
