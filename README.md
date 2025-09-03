@@ -201,6 +201,3 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 > **What it is:** Final stage — ransomware, destruction, defacement, encryption.
 > **Why it matters:** This is where business operations break down.
 
----
-
-Would you like me to **expand the remaining stages (Defense Evasion ➝ Impact)** with **screenshots placeholders** just like the earlier ones, so your whole MITRE journey looks consistent and complete?
