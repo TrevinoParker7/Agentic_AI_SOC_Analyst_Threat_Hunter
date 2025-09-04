@@ -240,4 +240,11 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 
 > **What it is:** Final stage — ransomware, destruction, defacement, encryption.
 > **Why it matters:** This is where business operations break down.
+<img width="3095" height="1036" alt="Screenshot 2025-09-04 045311" src="https://github.com/user-attachments/assets/7916d3d4-1ee1-48c6-a377-2b26c90d39f2" />
+
+<img width="3076" height="1543" alt="Screenshot 2025-09-04 045353" src="https://github.com/user-attachments/assets/cd90e832-ee4b-4f70-9d3d-5ffb5aead163" />
+
+<img width="3062" height="1548" alt="Screenshot 2025-09-04 045410" src="https://github.com/user-attachments/assets/b2d60c75-246b-439d-ba40-ba957ca28abc" />
+
+<img width="3084" height="1549" alt="Screenshot 2025-09-04 045424" src="https://github.com/user-attachments/assets/3287ad7e-9b09-4186-850a-21a62b6a28d2" />
 
