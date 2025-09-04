@@ -214,6 +214,15 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 > **What it is:** Attackers establish communication channels to control compromised systems.
 > **Why it matters:** Detecting C2 traffic can cut the puppet strings.
 
+<img width="2685" height="1025" alt="Screenshot 2025-09-04 043635" src="https://github.com/user-attachments/assets/4ce465a2-bf95-4a26-987c-486d68cc945d" />
+
+<img width="3099" height="1464" alt="Screenshot 2025-09-04 043649" src="https://github.com/user-attachments/assets/5a44b575-4df4-4157-87b6-71069e9b5134" />
+
+
+<img width="3163" height="1287" alt="Screenshot 2025-09-04 043703" src="https://github.com/user-attachments/assets/76e7cc18-09b9-49dd-b034-f6bc9fd1540f" />
+
+
+
 ---
 
 ## 📤 Exfiltration
