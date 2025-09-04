@@ -221,14 +221,18 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 
 <img width="3163" height="1287" alt="Screenshot 2025-09-04 043703" src="https://github.com/user-attachments/assets/76e7cc18-09b9-49dd-b034-f6bc9fd1540f" />
 
-
-
 ---
 
 ## 📤 Exfiltration
 
 > **What it is:** Stealing data out of the environment (e.g., over HTTP, cloud storage, encrypted channels).
 > **Why it matters:** Prevents data loss, IP theft, and compliance nightmares.
+> 
+<img width="2793" height="1059" alt="Screenshot 2025-09-04 044424" src="https://github.com/user-attachments/assets/0d113ca2-de1e-499f-a88c-70d71801aa81" />
+
+<img width="3081" height="1693" alt="Screenshot 2025-09-04 044439" src="https://github.com/user-attachments/assets/a3be3aa4-34a0-4859-a385-7f54f79322b3" />
+
+
 
 ---
 
