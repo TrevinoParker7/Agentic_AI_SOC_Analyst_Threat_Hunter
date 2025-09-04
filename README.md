@@ -66,7 +66,7 @@ I will go thru the Full MITRE ATT\&CK to see what we can find.
 
 I will be using VS Code and Python and ChatGPT 5 Nano.
 
-<img width="3834" height="2281" alt="Screenshot 2025-08-30 205212" src="https://github.com/user-attachments/assets/b0bc3b63-7aa1-427a-9814-aa7c653615ef" />  
+<img width="2944" height="1954" alt="Screenshot 2025-09-04 052032" src="https://github.com/user-attachments/assets/a36253a6-c522-4cbe-8335-9146d7800a24" />
 
 We will start by running the `main.py` by clicking run, and begin the Threat Hunt looking for the first MITRE ATT\&CK tactic: Reconnaissance.
 
