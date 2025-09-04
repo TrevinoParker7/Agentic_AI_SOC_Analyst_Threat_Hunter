@@ -154,8 +154,6 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 
 <img width="2372" height="1069" alt="Screenshot 2025-09-03 170709" src="https://github.com/user-attachments/assets/b176638f-6437-43df-beba-1930f6d955b4" />
 
-
-
 <img width="3094" height="1820" alt="Screenshot 2025-09-03 170727" src="https://github.com/user-attachments/assets/d23e5b73-e862-4511-8a0d-9fe88c10ddeb" />
 
 
@@ -166,6 +164,15 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 > **What it is:** Mapping the environment — users, network shares, security tools, domains.
 > **Why it matters:** Recon inside the network lets attackers plan lateral movement.
 
+
+<img width="3143" height="1061" alt="Screenshot 2025-09-04 035933" src="https://github.com/user-attachments/assets/53e17571-c5fd-4454-9214-3626e39b6618" />
+
+<img width="3098" height="1542" alt="Screenshot 2025-09-04 035959" src="https://github.com/user-attachments/assets/12aeb3af-0cdf-4f90-ae20-1e0b1f0ee775" />
+
+<img width="2800" height="1366" alt="Screenshot 2025-09-04 040024" src="https://github.com/user-attachments/assets/6c48939a-46b1-4b9b-b094-88aca4ad66f1" />
+
+<img width="2712" height="1346" alt="Screenshot 2025-09-04 040044" src="https://github.com/user-attachments/assets/1ef40b97-3f9e-4f68-8201-2ccbc160674f" />
+
 ---
 
 ## 🔄 Lateral Movement
@@ -173,12 +180,32 @@ We will start by running the `main.py` by clicking run, and begin the Threat Hun
 > **What it is:** Moving between systems to expand access (e.g., RDP, pass-the-hash, exploiting trust).
 > **Why it matters:** It’s how one compromised machine becomes a full network breach.
 
+
+<img width="3163" height="1040" alt="Screenshot 2025-09-04 041020" src="https://github.com/user-attachments/assets/ce71157f-89d0-411a-9e4b-1449de66cf01" />
+
+<img width="3093" height="1529" alt="Screenshot 2025-09-04 041035" src="https://github.com/user-attachments/assets/5e815344-26a8-4208-9ac4-a66b3c6e46d7" />
+
+<img width="3122" height="1541" alt="Screenshot 2025-09-04 041051" src="https://github.com/user-attachments/assets/70696bf9-ad59-4270-837f-6feae537d4e9" />
+
+<img width="3180" height="1361" alt="Screenshot 2025-09-04 041108" src="https://github.com/user-attachments/assets/9fa59b70-ba0d-4ddd-901e-8f07b48bbfc1" />
+
+
 ---
 
 ## 📥 Collection
 
 > **What it is:** Gathering data of value (screenshots, files, databases, keystrokes).
 > **Why it matters:** This is the staging ground before exfiltration.
+<img width="3085" height="1075" alt="Screenshot 2025-09-04 042203" src="https://github.com/user-attachments/assets/be4eeaed-2c53-45e3-94dc-f93f59c86040" />
+
+
+
+<img width="3307" height="1602" alt="Screenshot 2025-09-04 042219" src="https://github.com/user-attachments/assets/0aa27ee5-6d63-426b-87ea-8a9be7d413b8" />
+
+
+<img width="3112" height="1361" alt="Screenshot 2025-09-04 042235" src="https://github.com/user-attachments/assets/22c469e5-9da3-446c-83b0-98275e1234ca" />
+
+
 
 ---
 
