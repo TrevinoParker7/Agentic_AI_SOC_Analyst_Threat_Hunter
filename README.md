@@ -1,6 +1,6 @@
 # 🔥(POC) Demo of An Unpopular Opinion: AI + SOC Analysts
 
-<a href="https://www.youtube.com/watch?v=vFuM--0H3qE"><img width="50" height="15" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>  Youtube Video: [https://www.youtube.com/watch?v=vFuM--0H3qE](https://www.youtube.com/watch?v=vFuM--0H3qE)
+<a href="https://www.youtube.com/watch?v=vFuM--0H3qE"><img width="50" height="15" alt="image" src="https://github.com/user-attachments/assets/910838d4-5917-4bbd-8abe-9820376a5781" /></a>  Youtube Video: [https://www.youtube.com/watch?v=oWa5Wxb8w-o](https://www.youtube.com/watch?v=oWa5Wxb8w-o)
 
 > **AI will replace bad SOC Analysts, not good ones.**
 
